@@ -1,6 +1,10 @@
 # Children Competition Android App
 
 
+## Overview
+The purpose of this application is to facilitate participant sign up at a children competition. The authenticated organiser can see all participants added by him. Moreover, he can edit the details of existing participants and add new participants.
+
+
 ## Screenshots
 
 ### Login screen
